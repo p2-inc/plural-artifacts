@@ -1,0 +1,14 @@
+name: keycloak
+description: Phase Two enhanced Keycloak, open source identity and access management (IAM) and single sign on (SSO)
+category: SECURITY
+private: true
+icon: plural/icons/keycloak.png
+notes: plural/notes.tpl
+gitUrl: https://github.com/p2-inc
+homepage: https://phasetwo.io/
+tags:
+- tag: oauth
+- tag: oidc
+- tag: saml
+- tag: idp
+- tag: sso
